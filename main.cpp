@@ -2,8 +2,8 @@
 #define _USE_MATH_DEFINES 1
 #include <cmath>
 #pragma comment(lib, "winmm.lib")
-#pragma comment(lib, "ntdll.lib")
-#pragma comment(lib, "kernel32.lib")
+//#pragma comment(lib, "ntdll.lib")
+//#pragma comment(lib, "kernel32.lib")
 //EXTERN_C NTSTATUS NTAPI RtlAdjustPrivilege(ULONG, BOOLEAN, BOOLEAN, PBOOLEAN);
 //EXTERN_C NTSTATUS NTAPI NtRaiseHardError(NTSTATUS ErrorStatus, ULONG NumberOfParameters, ULONG UnicodeStringParameterMask, PULONG_PTR Parameters, ULONG ValidRespnseOption, PULONG Response);
 
